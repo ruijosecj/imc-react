@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+    
+}
+div span{
+    font-size: 2rem;
+    border: 1px solid #0984e3;
+    padding: 12px;
+    margin: 12px;
+    display: block;
+}

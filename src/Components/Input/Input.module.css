@@ -1,0 +1,13 @@
+.input input{
+    font-size: 1.2rem;
+    border-radius: 8px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.input label{
+    width: 80px;
+    display: inline-block;
+    font-size: 1.2rem;
+}
